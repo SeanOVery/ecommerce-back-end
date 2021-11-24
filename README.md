@@ -21,10 +21,12 @@
 
   In the root directory create a .env file and enter the following values in it:
 
+```
   DB_HOST=localhost
   DB_USER=root
   DB_PASSWORD=yourrootpassword
   DB=ecommerce_db
+```
 
   ## Usage
   
