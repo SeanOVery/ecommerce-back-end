@@ -30,7 +30,7 @@
   
   in the same directory you installed in run ```npm start``` to run the program then access the api through the api/categories, api/products, or api/tags routes in insomnia or a similar program
 
-  Link to walkthrough video [here](todo: add).
+  Link to walkthrough video showing functionality of app [here](https://streamable.com/norkc2).
 
   ## Contributing
   
